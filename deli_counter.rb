@@ -1,2 +1,1 @@
-line=[]
-if line
+def line(ke)
