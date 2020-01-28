@@ -1,1 +1,1 @@
-def line(ke)
+def line(kats_del)
